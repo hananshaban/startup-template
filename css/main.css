@@ -1,0 +1,205 @@
+
+@font-face {
+    font-family: Brandon_med;
+    src: url(../fonts/Brandon_med.otf);
+}
+@font-face {
+    font-family: Cubano-Regular;
+    src: url(../fonts/Cubano-Regular.otf);
+}
+
+
+@font-face {
+    font-family: Brandon_light;
+    src: url(../fonts/Brandon_light.otf);
+}
+
+
+@font-face {
+    font-family: Brandon_bld;
+    src: url(../fonts/Brandon_bld.otf);
+}
+
+
+@font-face {
+    font-family: Brandon_reg;
+    src: url(../fonts/Brandon_reg.otf);
+}
+
+
+.navbar-inverse .navbar-nav > li > a{
+  color: #fff;
+  font-family: Brandon_med;
+}
+.navbar-inverse .navbar-nav > li > a:hover{
+  color: #5e525e;
+}
+
+
+.navbar-inverse .navbar-brand{
+  color: #fff;
+  font-family: Cubano-Regular;
+
+}
+.navbar{
+    min-height: 70px;
+}
+.head {
+  margin-top : 20px;
+}
+.navbar-inverse{
+ background-color: transparent;
+ border-color:transparent;
+}
+
+.first {
+  width: 100%;
+  height: 650px;
+  background-image: url("../images/2.png");
+   background-size:100% 100%;
+
+    background-repeat: no-repeat;
+}
+.part2{
+text-align: center;
+color: #fff;
+margin-top: 150px;
+
+
+}
+.part2 h1{
+    font-size: 80px;
+     font-family: Brandon_bld;
+
+
+}
+.part2 p{
+    font-size: 30px;
+    font-family: Brandon_light;
+    margin-bottom: -30px;
+
+}
+.btn-default{
+    background-color: transparent;
+    margin-top: 10px;
+
+
+
+}
+.btn{
+    padding: 10px 40px;
+    border-radius: 0px;
+    color: #fff;
+     font-family: Brandon_bld;
+}
+.row{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+ .partN2 p {
+  color: #777;
+  }
+.partN2{
+    width: 100%;
+    background-color:#fafafa;
+}
+ .imag{
+    padding-top: 20px;
+  -webkit-transition-duration: 5s; /* Safari */
+    transition-duration: 5s;
+ }
+.cent{
+    text-align: center;
+}
+
+.square{
+   /* background-color: #fff;*/
+    padding: 15px;
+    margin-top: 20px;
+
+
+}
+
+.im img{
+
+    width: 100px;
+    margin-top: 20px;
+
+
+}
+.fontStyle .lead{
+  font-family: Brandon_reg;
+
+}
+
+
+.sec3 p{
+    font-family: Brandon_reg;
+  color: #777;
+}
+.sec3 h1{
+     font-family: Brandon_med;
+
+}
+.fontStyle h1{
+ font-family: Brandon_light;
+}
+.Style{
+    font-family: Brandon_bld;
+}
+.fou{
+margin-bottom:  30px;
+}
+.partN3{
+
+background-color: #000;
+color: #FFF;
+
+
+
+}
+.partN3 h3 {
+  /*font-family: Brandon_med;*/
+   font-family: Brandon_light;
+}
+
+.partN3 h2{
+   font-family: Brandon_med;
+
+}
+.L1{
+   color: #777;
+}
+.partN3 p {
+  color: #fff;
+  }
+.te{
+
+    text-align: center;
+}
+.partN4{
+   background-color: #7690c5;
+color: #FFF;
+
+}
+.fou2{
+margin-top: 50px;
+}
+.footer{
+
+    margin-top: 20px;
+}
+.img-responsive{
+display: inline-block;
+}
+.imag:hover img{
+-ms-transform: scale(1.1,1.1) rotate(260deg); /* IE 9 */
+    -webkit-transform: scale(1.1,1.1) rotate(260deg); /* Chrome, Safari, Opera */
+    transform:scale(1.1,1.1) rotate(260deg);
+}
+.navbar-inverse .navbar-toggle{
+  background-color: #716083;
+}
+.navbar-inverse .navbar-toggle:hover{
+background-color: #716083;
+}
